@@ -1,3 +1,4 @@
+Impossible de mettre à jour le dépot depuis Android Studio
 # appli_test
 
 A new Flutter project.
